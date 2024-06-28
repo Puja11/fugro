@@ -1,0 +1,20 @@
+.position-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+  background: black;
+}
+
+.average-position,
+.current-position {
+  font-size: 16px;
+}
+
+.strong {
+  font-weight: bolder;
+  color: #a9a9a9;
+}
